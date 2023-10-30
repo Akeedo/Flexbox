@@ -20,7 +20,7 @@
     font-size: 35px;
     padding: 20px;
     margin: 10px;
-    flex-grow: 1;
+    flex: 1;
 }
 
 .items-1{
@@ -36,7 +36,6 @@
 }
 
 .items-4{
-    flex-grow: 3;
 }
 
 items-5{
