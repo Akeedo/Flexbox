@@ -39,5 +39,6 @@
 }
 
 .items-5{
-    flex-basis: 75%;
+    flex-basis: 700px;
+    flex-shrink: 0;
 }
