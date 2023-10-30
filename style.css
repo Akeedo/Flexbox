@@ -22,10 +22,22 @@
     margin: 10px;
 }
 
-.items-3 {
-    height: 150px;
+.items-1{
+    order: 3;
+}
+
+.items-2{
+    order: 4;
+}
+
+.items-3{
+    order: 0; 
 }
 
 .items-4{
-    align-self: baseline;
+    order: 1;
+}
+
+items-5{
+    order: 2;
 }
