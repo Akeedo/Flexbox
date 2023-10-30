@@ -39,5 +39,5 @@
 }
 
 .items-5{
-    flex: 5;
+    flex-basis: 75%;
 }
