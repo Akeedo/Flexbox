@@ -8,6 +8,7 @@
     background-color: #cacaca;
     padding: 10px;
     margin: 50px;
+    display: flex;
 }
 
 .item{
